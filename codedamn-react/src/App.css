@@ -1,0 +1,32 @@
+.App-header{
+  font-size: 13px;
+  font-weight: 700;
+  background-color:slategray;
+  word-spacing: 9px;
+}
+
+.footer{
+  text-align: center;
+  font-weight: bold; 
+  margin-top: 100px;
+  margin-bottom: 70px;
+}
+
+.counter{
+  background-color: darkkhaki;
+}
+
+.counter-button {
+  display: flex;
+  gap: 15px; 
+}
+
+.todoapp{
+  font-size: 21px;
+  color:slateblue;
+  font-weight: 700;
+}
+
+.display{
+  display: inline-block;
+}
